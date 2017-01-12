@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp -o dist/ILang
+	g++ main.cpp -o dist/ilang
